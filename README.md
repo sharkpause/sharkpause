@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am sharkPause, a kid on the internet learning to code
+
+I'm currently learning to be a backend web developer
+
+I'm also open for contribution on my projects and trying to find an open source project to be a part of
+
+Contact me through my email: encryptedshark@gmail.com
+
+Fun fact: I like sharks

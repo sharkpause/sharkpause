@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am sharkPause, a guy on the internet learning to code,you can call me Don
+I am sharkPause, a guy on the internet learning to code, you can call me Don
 
 I'm currently learning to be a backend web developer
 

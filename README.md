@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am sharkPause, a guy on the internet learning to code, you can call me Don
 
-I'm currently learning to be a backend web developer
+I'm currently learning to be a full stack web developer
 
 I'm also open for contribution on my projects and trying to find an open source project to be a part of
 

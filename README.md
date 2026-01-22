@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm sharkPause, a guy on the internet learning to code, you can call me Don
+I'm Don, a fella driven by curiosity.
 
-I'm currently learning to be a full stack web developer as my main career option, but my true passion in low level programming
+I'm a full stack web developer mainly using Node and React, but my true passion is in systems programming.
 
-I'm also open for contribution on my projects and trying to find an open source project to be a part of
+I'm also open for contributions on my projects.
 
 Contact me through my email: encryptedshark@gmail.com
-
-Fun fact: I like sharks

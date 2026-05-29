@@ -14,11 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm Don, a fella driven by curiosity.
-
-I'm a full stack web developer mainly using Node and React, but my true passion is in systems programming.
-
-I'm also open for contributions on my projects.
-
 Contact me through my email: encryptedshark@gmail.com
